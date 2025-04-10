@@ -1,0 +1,4 @@
+dn: cn=ReportViewer,ou=Roles,dc=kali-ldap,dc=local
+changetype: modify
+add: member
+member: uid=alex.soto,ou=People,dc=kali-ldap,dc=local

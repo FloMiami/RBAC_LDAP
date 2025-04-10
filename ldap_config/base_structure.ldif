@@ -1,0 +1,11 @@
+dn: ou=People,dc=kali-ldap,dc=local
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Groups,dc=kali-ldap,dc=local
+objectClass: organizationalUnit
+ou: Groups
+
+dn: ou=Roles,dc=kali-ldap,dc=local
+objectClass: organizationalUnit
+ou: Roles

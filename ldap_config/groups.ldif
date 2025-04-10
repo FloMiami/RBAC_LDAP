@@ -1,0 +1,9 @@
+dn: cn=Pentesters,ou=Groups,dc=kali-ldap,dc=local
+objectClass: groupOfNames
+cn: Pentesters
+member: uid=alex.soto,ou=People,dc=kali-ldap,dc=local
+
+dn: cn=Analysts,ou=Groups,dc=kali-ldap,dc=local
+objectClass: groupOfNames
+cn: Analysts
+member: uid=alex.soto,ou=People,dc=kali-ldap,dc=local

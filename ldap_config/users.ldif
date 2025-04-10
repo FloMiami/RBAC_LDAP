@@ -1,0 +1,13 @@
+dn: uid=alex.soto,ou=People,dc=kali-ldap,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: alex.soto
+cn: Alex Soto
+sn: Soto
+givenName: Alex
+userPassword: {SSHA}5vsR8kVXcqedFuC+TjqWDqLh6KEpTRgu
+uidNumber: 10000
+gidNumber: 10000
+homeDirectory: /home/alex.soto
+loginShell: /bin/bash

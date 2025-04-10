@@ -1,0 +1,9 @@
+dn: cn=ToolUser,ou=Roles,dc=kali-ldap,dc=local
+objectClass: groupOfNames
+cn: ToolUser
+member: cn=Pentesters,ou=Groups,dc=kali-ldap,dc=local
+
+dn: cn=ReportViewer,ou=Roles,dc=kali-ldap,dc=local
+objectClass: groupOfNames
+cn: ReportViewer
+member: cn=Analysts,ou=Groups,dc=kali-ldap,dc=local
